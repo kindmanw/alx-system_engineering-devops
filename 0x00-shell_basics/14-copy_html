@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 cp -u *.htm ..
+=======
+cp -u *.html ..
+>>>>>>> bcea38a3756d05624316279eff5181a2169cdea9
